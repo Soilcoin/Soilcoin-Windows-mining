@@ -1,0 +1,1 @@
+# Soilcoin-Windows-mining
