@@ -1,8 +1,7 @@
 # Soilcoin-Windows-mining
 **Soil Windows Mining Guide**
 
-Download the mining pakage and extract it
-Download ethminer and extract the files to soil-mining-windows/ethminer
+Download the mining pakage and extract it. Download ethminer and extract the files to soil-mining-windows/ethminer
 https://github.com/Genoil/cpp-ethereum/blob/master/releases/ethminer-0.9.41-genoil-1.1.7.zip
 
 If you don't have already a soil address - generate one
